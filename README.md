@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @javierwagmed
+-  I’m interested in understanding the ins and outs of coding
+-  I’m currently learning python and Java.
